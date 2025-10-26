@@ -1,4 +1,4 @@
-let count = 0;
+
 
 let buttons = document.querySelectorAll("button");
 let output = document.getElementById("output");
