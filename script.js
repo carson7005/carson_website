@@ -1,5 +1,5 @@
 
-
+console.log("Javascript is connected!");
 const buttons = document.querySelectorAll('button');
 const output = document.getElementById('output');
 
